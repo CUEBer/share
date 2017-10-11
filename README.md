@@ -27,3 +27,5 @@ http://blog.csdn.net/jxq0816/article/details/51706212
 3. AngularJS 框架搭建 并实现与server服务器通信
 http://blog.csdn.net/jxq0816/article/details/78147904
 
+4.JPA
+http://projects.spring.io/spring-data-jpa/
