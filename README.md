@@ -32,3 +32,6 @@ http://projects.spring.io/spring-data-jpa/
 
 5. gradle
 https://spring.io/guides/gs/gradle/
+
+6. Spring Security OAuth
+http://projects.spring.io/spring-security-oauth/docs/tutorial.html
