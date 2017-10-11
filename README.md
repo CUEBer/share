@@ -29,3 +29,6 @@ http://blog.csdn.net/jxq0816/article/details/78147904
 
 4. JPA
 http://projects.spring.io/spring-data-jpa/
+
+5. gradle
+https://spring.io/guides/gs/gradle/
