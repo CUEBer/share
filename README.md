@@ -35,3 +35,6 @@ https://spring.io/guides/gs/gradle/
 
 6. Spring Security OAuth
 http://projects.spring.io/spring-security-oauth/docs/tutorial.html
+
+7. Intellij idea 学生账号申请
+https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F
