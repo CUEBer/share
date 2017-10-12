@@ -41,5 +41,8 @@ http://astah.net/student-license-request
 9. springboot 与各框架的整合代码
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
 
+10.springboot gradle
+http://blog.csdn.net/jxq0816/article/details/78214994
+
 
 
