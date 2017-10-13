@@ -44,5 +44,8 @@ https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
 10. springboot gradle
 http://blog.csdn.net/jxq0816/article/details/78214994
 
+11. springboot oauth2
+http://spring.io/guides/tutorials/spring-boot-oauth2/
+
 
 
