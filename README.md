@@ -32,7 +32,7 @@ https://spring.io/guides/gs/gradle/
 6. OAuth  
 spring boot oauth2
 http://spring.io/guides/tutorials/spring-boot-oauth2/  
-Spring Security OAuth  
+Spring Security OAuth
 http://projects.spring.io/spring-security-oauth/docs/tutorial.html
 
 7. Intellij idea 学生账号申请
